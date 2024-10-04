@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bala Mathias,</h1>
 <h3 align="center">A passionate fullstack developer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamathias" alt="balamathias" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/matiecodes" target="blank"><img src="https://img.shields.io/twitter/follow/matiecodes?logo=twitter&style=for-the-badge" alt="matiecodes" /></a> </p>
 
 - 🔭 I’m currently working on [isubscribe](https://isubscribe.vercel.app)
